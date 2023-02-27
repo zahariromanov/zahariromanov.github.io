@@ -50,7 +50,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello World! My name is Zahari Romanov; I am an American Veteran Small-Business Owner and Developer working to make the next generation of technical vision a reality. 
 
-  I am most skilled in: <mark>Full-Stack Development (HTML, CSS, Javascript, SQL)</mark> , <mark>Python</mark> , and am currently learning more about <mark> Deep Learning </mark> and <mark> Ai Development </mark> . 
+  I am most skilled in: <mark>Full-Stack Development (HTML, CSS, Javascript, SQL)</mark> , <mark>Python</mark> , and am currently learning more about <mark> Deep Learning </mark> and <mark> Artificial Intelligence Development </mark> . 
 
 content:
   - title: Projects # Title for the section
@@ -86,6 +86,17 @@ content:
         description: | # this will include new lines to allow paragraphs
             I enlisted in High School as a Military Police Officer and later transitioned into being a Motor Transport Operator.
 
+      - layout: left
+        title: Amazon.com
+        link: amazon.com
+        link_text: Amazon
+        sub_title: Business Group Associate
+        caption: February 2021 - February 2022
+        quote: >
+          Providing Support and Analysis to Clients of Amazon Business..
+        description: | # this will include new lines to allow paragraphs
+            I worked on contract for Amazon as an associate representative to assist Amazon Business Clients with various services and analysis' to foster oversight and optimization with relation to their procurement operations, finance and account management.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -98,15 +109,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at John Battle, I was enrolled as an Advanced Studies Student with Dual Enrollment status. I focused my studies on STEM related topics including but not limited to Physics, Chemisty, Computer Programming and other advanced studies in high level Maths.
 
-          I spent a lot of my free time envolved in extra curricular activities, volunteer service and developing my skills in Programming and Computer Science.
+          I spent a lot of my free time involved in extra curricular activities, volunteer service and developing my skills in Programming and Computer Science.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Apart of my research in software engineering and emerging technologies some of my areas of interest include:
-      - Ai
+      My research in Software Engineering and Emerging Technologies is primarily focused on:
+      - WebDev (HTML, CSS / Bootstrap, Flask - Python)
+      - Ai (NLP, Reccomender Systems)
       - TinyML
-      - Blockchain
+      - XR / AR / VR / MR
+      - Gaming Development
       - and Robotics
 
       Look at this cool image  
