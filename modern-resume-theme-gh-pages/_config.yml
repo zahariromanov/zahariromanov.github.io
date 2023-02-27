@@ -1,0 +1,127 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Zahari A. Romanov
+title: 
+email: zahariromanov@pm.me
+website: https://zahariromanov.github.io/ 
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+#twitter_username: facespics
+github_username:  zahariromanov
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: zahariromanov
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  Hello World! My name is Zahari Romanov; I am an American Veteran Small-Business Owner and Developer working to make the next generation of technical vision a reality. 
+
+  I am most skilled in: <mark>Full-Stack Development (HTML, CSS, Javascript, SQL)</mark> , <mark>Python</mark> , and am currently learning more about <mark> Deep Learning </mark> and <mark> Ai Development </mark> . 
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Resume
+        link: https://zahariromanov.github.io/
+        # link_text: Project Website
+        additional_links:
+          - title:  zahariromanov.github.io repo
+            icon: fab fa-github
+            url: https://zahariromanov.github.io/
+          # - title:  Github page for project (eg. zahariromanov.github.io)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. https://zahariromanov.github.io/)
+        quote: >
+          This is an interactive resume to showcase my portfolio and credentials.
+        description: | # this will include new lines to allow paragraphs
+          I am building this project as a resume and portfolio for potential employers.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Department of Defense
+        link: goarmy.com
+        link_text: GoArmy
+        sub_title: Enlisted
+        caption: January 2013 - July 2020
+        quote: >
+          Providing Security and Logistics support in the Commonwealth of Virginia and the United States of America.
+        description: | # this will include new lines to allow paragraphs
+            I enlisted in High School as a Military Police Officer and later transitioned into being a Motor Transport Operator.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: John S. Battle High School
+        caption: 2009 - 2013
+        sub_title: Advanced Studies Diploma
+        quote: >
+          Founded in 1959 and named for former Virginia Governor John S. Battle, John S. Battle High School has remained commited to being a center of acedemic excellence in the Commonwealth of Virginia.
+        description: | # this will include new lines to allow paragraphs
+          During my time at John Battle, I was enrolled as an Advanced Studies Student with Dual Enrollment status. I focused my studies on STEM related topics including but not limited to Physics, Chemisty, Computer Programming and other advanced studies in high level Maths.
+
+          I spent a lot of my free time envolved in extra curricular activities, volunteer service and developing my skills in Programming and Computer Science.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Apart of my research in software engineering and emerging technologies some of my areas of interest include:
+      - Ai
+      - TinyML
+      - Blockchain
+      - and Robotics
+
+      Look at this cool image  
+      ![Cosmic Art](/modern-resume-theme/images/cosmicart.jpg "Cosmic Art")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
