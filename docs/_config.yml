@@ -127,6 +127,21 @@ content:
 
           I spent a lot of my free time involved in extra curricular activities, volunteer service and developing my skills in Programming and Computer Science.
 
+    - layout: left
+        title: Codecademy
+        caption: January 2023 - Present
+        sub_title: Professional Certification
+        quote: >
+          ..empowering all people, regardless of where they are in their coding journeys, to continue to learn, grow, and make an impact on the world around them.
+        description: | # this will include new lines to allow paragraphs
+          I am using Codecademy to continue my education in Computer Science and Programming. I am currently enrolled in the Full-Stack Engineer Professional Certification Program and other skill paths such as but not limited to:
+          - Machine Learning / AI Engineering
+          - Data Science : Natuarl Language Processing
+          - Build Chatbots with Python
+          - DevOps
+          - Recommender Systems
+          - and more!
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
