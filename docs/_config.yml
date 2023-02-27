@@ -97,9 +97,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             I worked on contract for Amazon as an associate representative to assist Amazon Business Clients with various services and analysis' to foster oversight and optimization with relation to their procurement operations, finance and account management.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: TPUSA Inc.
         link: https://www.teleperformance.com/en-us/
