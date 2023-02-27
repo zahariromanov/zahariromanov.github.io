@@ -5,4 +5,4 @@ _site
 Gemfile.lock
 *.code-workspace
 README.md
-index.html
+index.md
