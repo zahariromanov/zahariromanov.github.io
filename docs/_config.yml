@@ -156,6 +156,7 @@ content:
 # Footer
 footer_show_references: true
 references_title: References available upon request.
+contact_title: For more information or to make requests please contact me at zahariromanov@pm.me . 
 
 # Build settings
 remote_theme: sproogen/resume-theme
