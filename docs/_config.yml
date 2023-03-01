@@ -1,5 +1,5 @@
 # Site
-repository: zahariromanov/zahariromanov.github.io
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -25,12 +25,12 @@ github_username:  zahariromanov
 linkedin_username: zahariromanov
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
+#additional_links:
 #- title: itsgoingto.be
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
@@ -77,7 +77,7 @@ content:
     content:
       - layout: left
         title: Department of Defense
-        link: https://www.goarmy.com
+        link: goarmy.com
         link_text: GoArmy
         sub_title: Enlisted
         caption: January 2013 - July 2020
@@ -87,13 +87,13 @@ content:
             I enlisted in High School as a Military Police Officer and later transitioned into being a Motor Transport Operator.
 
       - layout: left
-        title: Amazon Business
-        link: https://business.amazon.com
+        title: Amazon.com
+        link: amazon.com
         link_text: Amazon
-        sub_title: Business Group Associate II
+        sub_title: Business Group Associate
         caption: February 2021 - February 2022
         quote: >
-          Providing Support and Analysis to Amazon Business Clients.
+          Providing Support and Analysis to Clients of Amazon Business..
         description: | # this will include new lines to allow paragraphs
             I worked on contract for Amazon as an associate representative to assist Amazon Business Clients with various services and analysis' to foster oversight and optimization with relation to their procurement operations, finance and account management.
 
@@ -108,9 +108,8 @@ content:
         quote: >
           Adding value to our clients through exceptional service.
         description: | # this will include new lines to allow paragraphs
-            I have maintained full- time employment with TPUSA Inc. since 2015. I have worked with a variety of clients in a various industries including but not limited to: Manufacturing, Home Security, and Financial Services. Any mention of any organization, technology, product, service, or any other entity is for informational purposes only and does not constitute an endorsement or recommendation by TPUSA Inc or by it's clients, affiliates, partners, or subsidiaries.
+            I have had years of experience working on a diversity projects in support of a variety of clients in industries including but not limited to: Manufacturing, Home Security, Technology and Financial Services. Any mention of any organization, technology, product, service, or any other entity is for informational purposes only and does not constitute an endorsement or recommendation by TPUSA Inc or by it's clients, affiliates, partners, or subsidiaries.
 
-Content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -125,25 +124,10 @@ Content:
 
           I spent a lot of my free time involved in extra curricular activities, volunteer service and developing my skills in Programming and Computer Science.
 
-     - layout: left
-        title: Codecademy
-        caption: January 2023 - Present
-        sub_title: Professional Certification
-        quote: >
-          ..empowering all people, regardless of where they are in their coding journeys, to continue to learn, grow, and make an impact on the world around them.
-        description: | # this will include new lines to allow paragraphs
-          I am using Codecademy to continue my education in Computer Science and Programming. I am currently enrolled in the Full-Stack Engineer Professional Certification Program and other skill paths such as but not limited to:
-          - Machine Learning / AI Engineering
-          - Data Science : Natuarl Language Processing
-          - Build Chatbots with Python
-          - DevOps
-          - Recommender Systems
-          - and more!
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      My research in Software Engineering and Emerging Technologies is primarily focused on:
+      My research in Software Engineering and Emerging Technologies has been primarily focused on:
       - WebDev (HTML, CSS / Bootstrap, Flask - Python)
       - Ai (NLP, Reccomender Systems)
       - TinyML
@@ -152,12 +136,11 @@ Content:
       - and Robotics
 
       Look at this cool image  
-      ![Cosmic Art](/docs/images/cosmicart.jpg "Cosmic Art")
+      ![Cosmic Art](/modern-resume-theme/images/cosmicart.jpg "Cosmic Art")
 
 # Footer
 footer_show_references: true
 references_title: References available upon request.
-contact_title: For more information or to make requests please contact me at zahariromanov@pm.me . 
 
 # Build settings
 remote_theme: sproogen/resume-theme
