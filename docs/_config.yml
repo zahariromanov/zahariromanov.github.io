@@ -10,8 +10,6 @@ name: Zahari A. Romanov
 title: 
 email: zahariromanov@pm.me
 website: https://zahariromanov.github.io/ 
-website_name: check me out on Kaggle! We're currently accepting new team members!
-website: https://www.kaggle.com/zahariromanov
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -33,7 +31,7 @@ linkedin_username: zahariromanov
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
+# additional_links:
 #- title: itsgoingto.be
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
@@ -173,7 +171,13 @@ content:
 # Footer
 footer_show_references: true
 references_title: References available upon request.
+title_links:
+  - title: Check me out on Kaggle!
+    icon: fab fa-kaggle
+    url: https://www.kaggle.com/zahariromanov/
+    text: We are always looking to add quality talent to the team. If you are interested in working with us, please contact me at zahariromanov@pm.me . 
 
+    
 # Build settings
 remote_theme: sproogen/resume-theme
 
