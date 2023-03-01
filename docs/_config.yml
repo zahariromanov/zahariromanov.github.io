@@ -10,15 +10,17 @@ name: Zahari A. Romanov
 title: 
 email: zahariromanov@pm.me
 website: https://zahariromanov.github.io/ 
+website_name: check me out on Kaggle! We're currently accepting new team members!
+website: https://www.kaggle.com/zahariromanov
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-#twitter_username: facespics
+# twitter_username: facespics
 github_username:  zahariromanov
 stackoverflow_username: "zahariromanov"
-kaggle_username: "zahariromanov"
+# kaggle_username: "zahariromanov"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -147,7 +149,7 @@ content:
         quote: >
           ..a few extra things I picked up along the way or am currently pursuing in my spare time.
         description: | #this will include new lines to allow paragraphs
-          CompTIA A+, NET+, SEC+
+          CompTIA A+, NET+, SEC+,
           Harvard CS50 for Ai
           Unity Engine Certified User for Game Development
           Columbia Engineering Certificate of Completion Coding Bootcamp
