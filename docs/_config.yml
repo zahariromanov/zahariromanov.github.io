@@ -127,7 +127,7 @@ content:
       - layout: left
         title: Codecademy
         caption: January 2023 - Present
-        sub_title: Professional Certification
+        sub_title: Professional Certifications and Skills
         quote: >
           ..empowering all people, regardless of where they are in their coding journeys, to continue to learn, grow, and make an impact on the world around them.
         description: | # this will include new lines to allow paragraphs
@@ -138,6 +138,20 @@ content:
           - DevOps
           - Recommender Systems
           - and more!
+
+      - layout: left
+        title: Extra - Curriculars
+        caption: 
+        sub_title: various credentials, classes and extra-curricular studies
+        quote: >
+          ..a few extra things I picked up along the way or am currently pursuing in my spare time.
+        description: | #this will include new lines to allow paragraphs
+          CompTIA A+, NET+, SEC+
+          Harvard CS50 for Ai
+          Unity Engine Certified User for Game Development
+          Columbia Engineering Certificate of Completion Coding Bootcamp
+          University of Richmond Certificate of Completion Data Science Bootcamp
+          and more...
 
   - title: A Little More About Me
     layout: text
@@ -151,7 +165,7 @@ content:
       - and Robotics
 
       Look at this cool image  
-      ![Cosmic Art](/modern-resume-theme/images/cosmicart.jpg "Cosmic Art")
+      ![Cosmic Art](/zahariromanov.github.io/docs/images/cosmicart.jpg "Cosmic Art")
 
 # Footer
 footer_show_references: true
