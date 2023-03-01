@@ -17,7 +17,8 @@ darkmode: true
 # Social links
 #twitter_username: facespics
 github_username:  zahariromanov
-# stackoverflow_username: "00000001"
+stackoverflow_username: "zahariromanov"
+kaggle_username: "zahariromanov"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -25,7 +26,7 @@ github_username:  zahariromanov
 linkedin_username: zahariromanov
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
