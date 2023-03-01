@@ -110,6 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             I have maintained full- time employment with TPUSA Inc. since 2015. I have worked with a variety of clients in a various industries including but not limited to: Manufacturing, Home Security, and Financial Services. Any mention of any organization, technology, product, service, or any other entity is for informational purposes only and does not constitute an endorsement or recommendation by TPUSA Inc or by it's clients, affiliates, partners, or subsidiaries.
 
+Content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
