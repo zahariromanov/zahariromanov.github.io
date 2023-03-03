@@ -72,6 +72,16 @@ content:
           This is an interactive resume to showcase my portfolio and credentials.
         description: | # this will include new lines to allow paragraphs
           I am building this project as a resume and portfolio for potential employers.
+      - layout: left
+        title: Python Projects
+        link: https://github.com/zahariromanov/Python-Projects
+        additional_links:
+        -title: Python Projects
+          icon: fab fa-github
+          url: https://github.com/zahariromanov/Python-Projects
+          quote: >
+            This is a repository of various Python Projects ranging from simple scripts to Flask Web Pages as well as Deep Learning and Neural Network Training and other Tensorflow Projects.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
