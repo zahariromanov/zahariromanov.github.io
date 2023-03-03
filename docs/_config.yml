@@ -75,11 +75,11 @@ content:
       - layout: left
         title: Python Projects
         link: https://github.com/zahariromanov/Python-Projects
-        additional_links:
+        #additional_links:
         -title: Python Projects
           icon: fab fa-github
           url: https://github.com/zahariromanov/Python-Projects
-          quote: >
+        quote: >
             This is a repository of various Python Projects ranging from simple scripts to Flask Web Pages as well as Artificial Intelligence Projects and other Tensorflow Projects.
 
 
