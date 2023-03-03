@@ -57,7 +57,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: Resume
         link: https://zahariromanov.github.io/
         # link_text: Project Website
@@ -72,7 +72,7 @@ content:
           This is an interactive resume to showcase my portfolio and credentials.
         description: | # this will include new lines to allow paragraphs
           I am building this project as a resume and portfolio for potential employers.
-      - layout: left
+      - layout: right
         title: Python Projects
         link: https://github.com/zahariromanov/Python-Projects
         additional_links:
