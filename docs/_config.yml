@@ -51,7 +51,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello World! My name is Zahari Romanov; I am an American Veteran Small-Business Owner and Developer working to make the next generation of technical vision a reality. 
 
-  I am most skilled in: <mark>Full-Stack Development (HTML, CSS, Javascript, SQL)</mark> , <mark>Python</mark> , and am currently learning more about <mark> Deep Learning </mark> and <mark> Artificial Intelligence Development </mark> . 
+  I am most skilled in and continuously learning more about: <mark>Full-Stack Development</mark>, <mark>Python</mark>, building WebApps with <mark>Flask</mark> and <mark>Artificial Intelligence</mark> development. 
 
 content:
   - title: Projects # Title for the section
