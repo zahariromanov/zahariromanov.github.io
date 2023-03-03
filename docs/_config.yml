@@ -51,7 +51,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello World! My name is Zahari Romanov; I am an American Veteran Small-Business Owner and Developer working to make the next generation of technical vision a reality. 
 
-  I am most skilled in and continuously learning more about: <mark>Full-Stack Development</mark>, <mark>Python</mark>, building WebApps with <mark>Flask</mark> and <mark>Artificial Intelligence</mark> development. 
+  I am most skilled in and am continuously learning more about: <mark>Full-Stack Development</mark> , <mark>Python</mark> , building WebApps with <mark>Flask</mark> ,and <mark>Artificial Intelligence</mark> development. 
 
 content:
   - title: Projects # Title for the section
@@ -158,10 +158,10 @@ content:
           ..a few extra things I picked up along the way or am currently pursuing in my spare time.
         description: | #this will include new lines to allow paragraphs
           CompTIA A+, NET+, SEC+,
-          Harvard CS50 for Ai
-          Unity Engine Certified User for Game Development
-          Columbia Engineering Certificate of Completion Coding Bootcamp
-          University of Richmond Certificate of Completion Data Science Bootcamp
+          Harvard CS50 for Ai,
+          Unity Engine Certified User for Game Development,
+          Columbia Engineering Certificate of Completion Coding Bootcamp,
+          University of Richmond Certificate of Completion Data Science Bootcamp,
           and more...
 
   - title: A Little More About Me
@@ -176,7 +176,7 @@ content:
       - and Robotics
 
       Look at this cool image  
-      ![Cosmic Art](/zahariromanov.github.io/docs/images/cosmicart.jpg "Cosmic Art")
+      ![Cosmic Art](\docs\images\cosmicart.jpg "Cosmic Art")
 
 # Footer
 footer_show_references: true
