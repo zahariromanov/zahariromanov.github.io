@@ -113,9 +113,9 @@ content:
         link: https://www.teleperformance.com/en-us/
         link_text: TPUSA Inc.
         sub_title: Client Representative
-        caption: AO SMITH October 2015 - November 2016
-        caption: SimpliSafe August 2021 - February 2023
-        caption: Charles Schwab February 2023 - Present
+        #caption: AO SMITH October 2015 - November 2016
+        #caption: SimpliSafe August 2021 - February 2023
+        #caption: Charles Schwab February 2023 - Present
         quote: >
           Adding value to our clients through exceptional service.
         description: | # this will include new lines to allow paragraphs
