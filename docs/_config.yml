@@ -57,7 +57,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Resume
         link: https://zahariromanov.github.io/
         # link_text: Project Website
