@@ -119,7 +119,7 @@ content:
         quote: >
           Adding value to our clients through exceptional service.
         description: | # this will include new lines to allow paragraphs
-            I have had years of experience working on a diversity projects in support of a variety of clients in industries including but not limited to: Manufacturing, Home Security, Technology and Financial Services. Any mention of any organization, technology, product, service, or any other entity is for informational purposes only and does not constitute an endorsement or recommendation by TPUSA Inc or by it's clients, affiliates, partners, or subsidiaries.
+            I have had years of experience working on a portfolio of projects in support of a our Clients in industries ranging from: Manufacturing, Home Security, and Financial Services to other Technical Services. Any mention of any organization, technology, product, service, or any other entity is for informational purposes only and does not constitute an endorsement or recommendation by TPUSA Inc or by it's clients, affiliates, partners, or subsidiaries.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -158,10 +158,11 @@ content:
           ..a few extra things I picked up along the way or am currently pursuing in my spare time.
         description: | #this will include new lines to allow paragraphs
           CompTIA A+, NET+, SEC+,
+          CISCO CCNA
+          Harvard CS50 for Web Development, 
           Harvard CS50 for Ai,
           Unity Engine Certified User for Game Development,
           Columbia Engineering Certificate of Completion Coding Bootcamp,
-          University of Richmond Certificate of Completion Data Science Bootcamp,
           and more...
 
   - title: A Little More About Me
