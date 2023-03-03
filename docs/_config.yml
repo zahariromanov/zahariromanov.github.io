@@ -75,8 +75,8 @@ content:
       - layout: left
         title: Python Projects
         link: https://github.com/zahariromanov/Python-Projects
-        #additional_links:
-        -title: Python Projects
+        additional_links:
+        - title: Python Projects
           icon: fab fa-github
           url: https://github.com/zahariromanov/Python-Projects
         quote: >
