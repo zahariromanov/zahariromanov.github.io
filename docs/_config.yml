@@ -178,7 +178,7 @@ content:
       - and Robotics
 
       Look at this cool image  
-      ![Cosmic Art](\docs\images\cosmicart.jpg "Cosmic Art")
+      ![Cosmic Art](D:\Repos\zahariromanov.github.io\docs\images\cosmicart.jpg "Cosmic Art")
 
 # Footer
 footer_show_references: true
