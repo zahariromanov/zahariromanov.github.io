@@ -17,7 +17,8 @@ darkmode: true
 # Social links
 # twitter_username: facespics
 github_username:  zahariromanov
-stackoverflow_username: "zahariromanov"
+stackoverflow_username: zahariromanov
+handshake_username: 
 # kaggle_username: "zahariromanov"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -51,7 +52,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello World! My name is Zahari Romanov; I am an American Veteran Small-Business Owner and Developer working to make the next generation of technical vision a reality. 
 
-  I am most skilled in and am continuously learning more about: <mark>Full-Stack Development</mark> , <mark>Python</mark> , building WebApps with <mark>Flask</mark> ,and <mark>Artificial Intelligence</mark> development. 
+  I am most skilled in and am continuously learning more about: <mark>Back-End Development</mark> , <mark>Python</mark> , building WebApps with <mark>Flask</mark> , as well as researching and developing <mark>Artificial Intelligence</mark>. 
 
 content:
   - title: Projects # Title for the section
