@@ -63,9 +63,9 @@ content:
         link: https://zahariromanov.github.io/
         # link_text: Project Website
         additional_links:
-          - title:  zahariromanov.github.io repo
-            icon: fab fa-github
-            url: https://zahariromanov.github.io/
+          - title:  Recruitment
+            icon: fab fa-handshake
+            url: https://codecademy.joinhandshake.com/stu/users/47859353/
           # - title:  Github page for project (eg. zahariromanov.github.io)
           #   icon: fab fa-github
           #   url: Link to project (eg. https://zahariromanov.github.io/)
