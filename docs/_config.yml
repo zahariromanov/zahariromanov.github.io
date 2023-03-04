@@ -177,8 +177,6 @@ content:
       - Gaming Development
       - and Robotics
 
-      Look at this cool image  
-      ![Cosmic Art](zahariromanov.github.io\docs\images\cosmicart.jpg "Cosmic Art")
 
 # Footer
 footer_show_references: true
@@ -188,7 +186,7 @@ title_links:
     icon: fab fa-kaggle
     url: https://www.kaggle.com/zahariromanov/
     text: We are always looking to add quality talent to the team. If you are interested in working with us, please contact me at zahariromanov@pm.me . 
-
+background_image: imgages/cosmicart.jpg
     
 # Build settings
 remote_theme: sproogen/resume-theme
