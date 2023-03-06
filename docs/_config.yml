@@ -167,12 +167,10 @@ content:
         quote: >
           ..a few extra things I picked up along the way or am currently pursuing in my spare time.
         description: | #this will include new lines to allow paragraphs
-          CompTIA A+, NET+, SEC+,
-          CISCO CCNA,
-          Harvard CS50 for Web Development, 
-          Harvard CS50 for Ai,
-          Unity Engine Certified User for Game Development,
-          Columbia Engineering Certificate of Completion Coding Bootcamp,
+
+          Enrolled - Harvard University CS50xAI Computer Science for Artificial Intelligence
+          Active Developer - Unity Certified User Programmer,
+          Accepted - Columbia Engineering Certificate of Completion Coding Bootcamp,
           and more...
 
   - title: A Little More About Me
