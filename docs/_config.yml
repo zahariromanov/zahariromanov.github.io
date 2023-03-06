@@ -144,7 +144,7 @@ content:
 
           I spent a lot of my free time involved in extra curricular activities, volunteer service and developing my skills in Programming and Computer Science.
 
-      - layout: left
+      - layout: list
         title: Codecademy
         caption: January 2023 - Present
         sub_title: Professional Certifications and Skills
@@ -159,7 +159,7 @@ content:
           - Recommender Systems
           - and more!
 
-      - layout: left
+      - layout: list
         title: Extra - Curriculars
         caption: 
         sub_title: various credentials, classes and extra-curricular studies
