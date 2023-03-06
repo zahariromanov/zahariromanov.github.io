@@ -81,7 +81,16 @@ content:
           icon: fab fa-github
           url: https://github.com/zahariromanov/Python-Projects
         quote: >
-            This is a repository of various Python Projects ranging from simple scripts to Flask Web Pages as well as Artificial Intelligence Projects and other Tensorflow Projects.
+            This is a repository of various Python Projects.
+      - layout: left
+        title: Tensorflow Projects
+        link: https://github.com/zahariromanov/Tensorflow-Projects
+        additional_links:
+        - title: Tensorflow Projects
+          icon: fab fa-github
+          url: https://github.com/zahariromanov/Tensorflow-Projects
+        quote: >
+          This is a repository of my Tensorflow Projects.
 
 
   - title: Experience # Title for the section
