@@ -71,8 +71,8 @@ content:
           #   url: Link to project (eg. https://zahariromanov.github.io/)
         quote: >
           This is an interactive resume to showcase my portfolio and credentials.
-        description: | # this will include new lines to allow paragraphs
-          I am building this project as a resume and portfolio for potential employers.
+        #description: | # this will include new lines to allow paragraphs
+        #  I am building this project as a resume and portfolio for potential employers.
       - layout: left
         title: Python Projects
         link: https://github.com/zahariromanov/Python-Projects
