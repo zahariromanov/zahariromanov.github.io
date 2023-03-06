@@ -176,12 +176,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       My research in Software Engineering and Emerging Technologies has been primarily focused on:
-      - WebDev (HTML, CSS / Bootstrap, Flask - Python)
-      - Ai (NLP, Reccomender Systems)
-      - TinyML
-      - XR / AR / VR / MR
-      - Gaming Development
-      - and Robotics
+      - WebDev (HTML, CSS / Bootstrap, Flask - Python), 
+      - Ai (NLP, Reccomender Systems), 
+      - TinyML, 
+      - XR / AR / VR / MR, 
+      - Gaming Development, 
+      - and Robotics!
 
 
 # Footer
