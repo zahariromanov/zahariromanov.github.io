@@ -81,7 +81,7 @@ content:
           icon: fab fa-github
           url: https://github.com/zahariromanov/Python-Projects
         quote: >
-            This is a repository of various Python Projects.
+          This is a repository of various Python Projects.
       - layout: left
         title: Tensorflow Projects
         link: https://github.com/zahariromanov/Tensorflow-Projects
