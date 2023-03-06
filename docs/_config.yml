@@ -152,6 +152,7 @@ content:
           ..empowering all people, regardless of where they are in their coding journeys, to continue to learn, grow, and make an impact on the world around them.
         description: | # this will include new lines to allow paragraphs
           I am using Codecademy to continue my education in Computer Science and Programming. I am currently enrolled in the Back-End Engineer Professional Certification Program and other skill paths such as but not limited to:
+         
           - Machine Learning / AI Engineering
           - Data Science : Natuarl Language Processing
           - Build Chatbots with Python
@@ -167,13 +168,13 @@ content:
           ..a few extra things I picked up along the way or am currently pursuing in my spare time.
         description: | #this will include new lines to allow paragraphs
 
-          Enrolled - Harvard University CS50xAI Computer Science for Artificial Intelligence
-          Active Developer - Unity Certified User Programmer,
-          Accepted - Columbia Engineering Certificate of Completion Coding Bootcamp,
-          and more...
+          - Enrolled - Harvard University CS50xAI Computer Science for Artificial Intelligence
+          - Active Developer - Unity Certified User Programmer,
+          - Accepted - Columbia Engineering Certificate of Completion Coding Bootcamp,
+          - and more...
 
   - title: A Little More About Me
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
       My research in Software Engineering and Emerging Technologies has been primarily focused on:
       - WebDev (HTML, CSS / Bootstrap, Flask - Python), 
