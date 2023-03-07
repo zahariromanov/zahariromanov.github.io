@@ -63,11 +63,11 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  Recruitment
-              icon: fab fa-handshake
-              url: https://codecademy.joinhandshake.com/stu/users/47859353/
+            icon: fab fa-handshake
+            url: https://codecademy.joinhandshake.com/stu/users/47859353/
           - title:  Github page for this project (eg. zahariromanov.github.io)
-              icon: fab fa-github
-              url: Link to project (eg. https://www.zahariromanov.com/)
+            icon: fab fa-github
+            url: Link to project (eg. https://www.zahariromanov.com/)
         quote: >
           This is an interactive resume to showcase my portfolio and credentials.
         #description: | # this will include new lines to allow paragraphs
